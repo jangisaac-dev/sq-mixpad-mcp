@@ -1,0 +1,6 @@
+/SQ MixPad Bridge.app/
+/qrc-dump/
+/qt
+bridge/sqbridge.dylib
+__pycache__/
+aqtinstall.log
